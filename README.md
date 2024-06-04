@@ -1,10 +1,10 @@
 # Basic-Discord-App-Java
 
 ## Overview
-A basic version of Discord created in Java that allows mutliple users to connect to a server, chat, reply to chats, and stores all messages
+A simplistic version of Discord implemented in Java, facilitating multiple users to connect to a server, engage in conversations, reply to messages, and persist chat history.
 
 ## Features
-- Connect to a local server and chat with / reply to other users through the console.
+- Establish connections to a local server and engage in conversation or reply to other users directly via the console.
   
 ## Technologies Used
 - Java
@@ -15,10 +15,10 @@ A basic version of Discord created in Java that allows mutliple users to connect
    git clone https://github.com/JSilvagnoli/Basic-Discord-App-Java.git
 
 ## Usage
-1. Run the server in Eclipse or equivalent Java IDE
-2. Open as many clients as you require in Eclipse or equivalent Java IDE
-3. Enter your username and begin chatting with other users
-4. For specific chat replies use the shortcut 
+1. Launch the server using Eclipse or any equivalent Java IDE.
+2. Open multiple clients in Eclipse or any equivalent Java IDE as needed.
+3. Enter your username and commence chatting with fellow users.
+4. Utilize the /reply shortcut for specific message responses, structured as follows:
 /reply <MessageCounter> (The number for the specific message you want to reply to) <Reply Message> (Your reply to the message)
 It will look like this:
 
